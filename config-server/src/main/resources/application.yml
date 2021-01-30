@@ -8,4 +8,4 @@ spring:
       server:
         git:
           default-label: master
-          uri:
+          uri: https://github.com/yue-traveller/spring-cloud-config
